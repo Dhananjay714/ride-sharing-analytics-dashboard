@@ -2,7 +2,7 @@
 
 An interactive and futuristic Power BI dashboard analyzing ride-sharing trends, cancellations, customer satisfaction, and revenue patterns across Indian cities — using a simulated dataset inspired by OLA and UBER operations.
 
-![Dashboard Preview](assets/dashboard_screenshots/ride_sharing_dashboard.png)
+![Dashboard Preview](assets/dashboard_screenshots/ride_sharing_dashboard1.png)
 
 ---
 
