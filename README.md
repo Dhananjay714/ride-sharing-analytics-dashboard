@@ -80,7 +80,7 @@ The goal is to provide   business and operational insights   through clean, mode
 
 Dhananjay Wadhi
 Final Year Computer Engineering Student
-📍 G.V. Acharya Institute of Engineering (Mumbai University)
+📍 G.V. Acharya Institute of Engineering & Technology (Mumbai University)
 🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-wadhi-058961237/) • [GitHub](https://github.com/Dhananjay714)
 
 ⭐ Star this repo if it helped you!
