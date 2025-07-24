@@ -1,0 +1,37 @@
+🚕 Ride-Sharing Analytics Dashboard – Key Insights Summary
+
+🔸 1. Peak Ride Times:
+- Highest ride demand occurs during Evening hours, followed by Morning.
+- Low volume during Night suggests potential for night-shift driver optimization.
+
+🔸 2. Revenue Trends:
+- Daily revenue exhibits noticeable spikes on Fridays and weekends.
+- Auto and Mini contribute significantly to high-frequency low-fare rides, while Sedan and SUV generate higher per-trip revenue.
+
+🔸 3. Top Performing Areas:
+- Specific Pickup_Locations (e.g., Andheri, Koramangala, Hinjewadi) have high ride volumes — ideal zones for ad targeting or driver availability.
+
+🔸 4. Cancellation Hotspots:
+- Cancellations are highest midweek (especially Wednesdays).
+- Certain locations repeatedly appear in canceled trips — possibly due to traffic zones or late pickups.
+
+🔸 5. Customer Experience:
+- Average rating hovers around 4.2, but lower scores are tied to longer duration or higher fare-per-km trips.
+- SUV rides show the highest average rating, indicating better experience in premium categories.
+
+🔸 6. Fare vs Distance Pattern:
+- Clear positive correlation: longer trips yield proportionally higher fares.
+- Few outliers (short distance but high fare) could indicate surge pricing or premium vehicle type.
+
+🔸 7. Vehicle Type Share:
+- Most frequent: Auto and Mini.
+- Most revenue-generating per ride: Sedan and SUV.
+
+🔸 8. Operational KPIs:
+- Average distance per ride: ~6.8 KM
+- Average ride duration: ~24 minutes
+- Cancellation rate: ~6.5%
+
+🎯 Business Use:
+- Helps pricing teams optimize fares based on time and location.
+- Useful for fleet distribution, incentive planning, and surge algorithm design.
